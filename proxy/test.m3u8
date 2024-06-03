@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="en",NAME="English"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="dubbing",NAME="Dubbing",URI="https://cool-proxy.web.val.run/proxy?destination=https%3A%2F%2Fcdn8.mixupload.com%2Fplayer%2Fplay%2F7803920"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="stereo",LANGUAGE="dubbing",NAME="Dubbing",URI="https://cool-proxy.web.val.run/proxy?destination=https%3A%2F%2Faac.saavncdn.com%2F131%2F56baf638b856178d29b99fcb634e00a6_160.mp4"
 
 #EXT-X-STREAM-INF:BANDWIDTH=831270,CODECS="mp4a.40.2",AUDIO="stereo"
-https://cool-proxy.web.val.run/proxy?destination=https%3A%2F%2Fcdn8.mixupload.com%2Fplayer%2Fplay%2F7803920
+https://cool-proxy.web.val.run/proxy?destination=https%3A%2F%2Faac.saavncdn.com%2F131%2F56baf638b856178d29b99fcb634e00a6_160.mp4
